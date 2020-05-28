@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+<<<<<<< HEAD
+/.idea/workspace.xml
+=======
+/workspace.xml
+>>>>>>> 05ed2267d90f54411850e5269c3be137e009fa7a
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+.gradle
+build/
+.ideas
+.idea
+gradle/
+out/
+build.gradle
